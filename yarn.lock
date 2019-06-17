@@ -807,7 +807,7 @@
     source-map "~0.6.1"
     vue-template-es2015-compiler "^1.9.0"
 
-"@vuepress/core@^1.0.1":
+"@vuepress/core@^1.0.0-rc.1":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@vuepress/core/-/core-1.0.1.tgz#16c7f582f1a19064a02a62069cd86681b7433742"
   integrity sha512-5r/C8MzRGIffZ7XZmYlq0VjpgzTXL6AB7YIGZ95YxlCH3qkV4dgWb3UfCCodV7BOwqOA0nMAg9mi1CJbv41Cbw==
@@ -872,12 +872,19 @@
     markdown-it-table-of-contents "^0.4.0"
     prismjs "^1.13.0"
 
-"@vuepress/plugin-active-header-links@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-active-header-links/-/plugin-active-header-links-1.0.1.tgz#b4f75932620e3c043684c1af9dbb3d17eb76a2f4"
-  integrity sha512-GqgliWEr+w/8H/+74klF7OhJWrcsEb7wJXwWf7ySW9OOEfkZx0+R5v7MJ+b6SfPGdqGhCRizMdM8hM5JMm7odw==
+"@vuepress/plugin-active-header-links@^1.0.0-rc.1":
+  version "1.0.0-rc.1"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-active-header-links/-/plugin-active-header-links-1.0.0-rc.1.tgz#46dc6f2efe6aef10c36f870e02b6d7af473de0cc"
+  integrity sha512-EC1SrnWHIsbpIzfjCumTTiXnKXxKayM6YJJ6cPZHVVaP5BdEIiJdRuecs5hM44u4LigDqFbXbvwWN769Ygn65Q==
   dependencies:
     lodash.throttle "^4.1.1"
+
+"@vuepress/plugin-back-to-top@^1.0.0-rc.1":
+  version "1.0.0-rc.1"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-back-to-top/-/plugin-back-to-top-1.0.0-rc.1.tgz#91fb693f3c7d7a9d8019842bb061ad756445e4ca"
+  integrity sha512-6XQfuNDLbfjOyxrVcgD09shPiFjc/YTkhAUMRrnkEfq1Uacaw9idr9BlCt+92Co3auIB15x7hsgyPr0es+PPNQ==
+  dependencies:
+    lodash.debounce "^4.0.8"
 
 "@vuepress/plugin-last-updated@^1.0.1":
   version "1.0.1"
@@ -886,7 +893,14 @@
   dependencies:
     cross-spawn "^6.0.5"
 
-"@vuepress/plugin-nprogress@^1.0.1":
+"@vuepress/plugin-medium-zoom@^1.0.0-rc.1":
+  version "1.0.0-rc.1"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-medium-zoom/-/plugin-medium-zoom-1.0.0-rc.1.tgz#78b81aad55621cf192667421eb73497cfe265068"
+  integrity sha512-yjMtzat6SUIsXHEjPn2xDYDqBdvRjJ9sZamBMAlodc95+P4BOce/VB6Q9VJeoCQ+Y7EW6hqisM8bQxluRWfbtA==
+  dependencies:
+    medium-zoom "^0.4.0"
+
+"@vuepress/plugin-nprogress@^1.0.0-rc.1":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-nprogress/-/plugin-nprogress-1.0.1.tgz#fd52573f0f53bec58ba479193828363609167967"
   integrity sha512-Ddlvb3kyA2JHk8F/2KuCqh8bRymrr8ujO6zsmhgP7/6WGYAs/qTR4vP3JDn7dqfHRxrgwQPwg9sdkGeOynreuw==
@@ -900,10 +914,10 @@
   dependencies:
     "@vuepress/shared-utils" "^1.0.1"
 
-"@vuepress/plugin-search@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-search/-/plugin-search-1.0.1.tgz#3cc1bb10635c370c8e467a8efa4852ddc645b067"
-  integrity sha512-Mj9VRQgRbMwxpxZKaZ+CHSeyS/Mg6TELTaPb7uxSq7LQ5+zmQuPeFo59oCYBnxJXIeduFOOgVH9Ot5hLkZfARw==
+"@vuepress/plugin-search@^1.0.0-rc.1":
+  version "1.0.0-rc.1"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-search/-/plugin-search-1.0.0-rc.1.tgz#819df40e70d8f20c31ecc1baef5a73ffc84ab0cb"
+  integrity sha512-SWKU5+4VKXgwb0JGt+Y4GNMGNQdTA/9QmUX4f6OmnXvQic1xnYJPPFz2Isns+D18bwkvs7Xl8ijUxQvhGul+EQ==
 
 "@vuepress/shared-utils@^1.0.1":
   version "1.0.1"
@@ -920,14 +934,14 @@
     semver "^6.0.0"
     upath "^1.1.0"
 
-"@vuepress/theme-default@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@vuepress/theme-default/-/theme-default-1.0.1.tgz#001d04430defd5c9038bd62a3c853e636dff90f4"
-  integrity sha512-CkPDu0YxuywSMuBsARqkpyQEKfInipUeqEWKL0V7J+l1jW/3wTwG3K9AnZkR+5yJSYHtJm6qEZqYSDEYXdc9Vw==
+"@vuepress/theme-default@^1.0.0-rc.1":
+  version "1.0.0-rc.1"
+  resolved "https://registry.yarnpkg.com/@vuepress/theme-default/-/theme-default-1.0.0-rc.1.tgz#65bedc1be835b3a80dc0c119dc10a1a3328844cc"
+  integrity sha512-+2KAIwhIAVambTG7LplXScta81eKAEwFEX1Hf8qwjWi8AOH9ssjNAGVOy/sA2KYEXD3A5OtZtJG+XRVFWx574g==
   dependencies:
-    "@vuepress/plugin-active-header-links" "^1.0.1"
-    "@vuepress/plugin-nprogress" "^1.0.1"
-    "@vuepress/plugin-search" "^1.0.1"
+    "@vuepress/plugin-active-header-links" "^1.0.0-rc.1"
+    "@vuepress/plugin-nprogress" "^1.0.0-rc.1"
+    "@vuepress/plugin-search" "^1.0.0-rc.1"
     docsearch.js "^2.5.2"
     stylus "^0.54.5"
     stylus-loader "^3.0.2"
@@ -3102,6 +3116,11 @@ fs.realpath@^1.0.0:
   resolved "https://registry.yarnpkg.com/fs.realpath/-/fs.realpath-1.0.0.tgz#1504ad2523158caa40db4a2787cb01411994ea4f"
   integrity sha1-FQStJSMVjKpA20onh8sBQRmU6k8=
 
+fs@^0.0.1-security:
+  version "0.0.1-security"
+  resolved "https://registry.yarnpkg.com/fs/-/fs-0.0.1-security.tgz#8a7bd37186b6dddf3813f23858b57ecaaf5e41d4"
+  integrity sha1-invTcYa23d84E/I4WLV+yq9eQdQ=
+
 fsevents@^1.2.7:
   version "1.2.9"
   resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-1.2.9.tgz#3f5ed66583ccd6f400b5a00db6f7e861363e388f"
@@ -4130,6 +4149,11 @@ lodash.clonedeep@^4.5.0:
   resolved "https://registry.yarnpkg.com/lodash.clonedeep/-/lodash.clonedeep-4.5.0.tgz#e23f3f9c4f8fbdde872529c1071857a086e5ccef"
   integrity sha1-4j8/nE+Pvd6HJSnBBxhXoIblzO8=
 
+lodash.debounce@^4.0.8:
+  version "4.0.8"
+  resolved "https://registry.yarnpkg.com/lodash.debounce/-/lodash.debounce-4.0.8.tgz#82d79bff30a67c4005ffd5e2515300ad9ca4d7af"
+  integrity sha1-gteb/zCmfEAF/9XiUVMArZyk168=
+
 lodash.kebabcase@^4.1.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/lodash.kebabcase/-/lodash.kebabcase-4.1.1.tgz#8489b1cb0d29ff88195cceca448ff6d6cc295c36"
@@ -4295,6 +4319,11 @@ media-typer@0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/media-typer/-/media-typer-0.3.0.tgz#8710d7af0aa626f8fffa1ce00168545263255748"
   integrity sha1-hxDXrwqmJvj/+hzgAWhUUmMlV0g=
+
+medium-zoom@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/medium-zoom/-/medium-zoom-0.4.0.tgz#8e13c9b754903c0c903220611af0d3cd373a4222"
+  integrity sha512-0z7yMfd6I1BTCAa8QaR4cp5AqDkQD571GzhHIbbfefKEssGLSvs+4Xai/itOAncm4FBlF5gUoMQ22yW9/f8Sig==
 
 mem@^4.0.0:
   version "4.3.0"
@@ -5039,6 +5068,14 @@ path-type@^3.0.0:
   dependencies:
     pify "^3.0.0"
 
+path@^0.12.7:
+  version "0.12.7"
+  resolved "https://registry.yarnpkg.com/path/-/path-0.12.7.tgz#d4dc2a506c4ce2197eb481ebfcd5b36c0140b10f"
+  integrity sha1-1NwqUGxM4hl+tIHr/NWzbAFAsQ8=
+  dependencies:
+    process "^0.11.1"
+    util "^0.10.3"
+
 pbkdf2@^3.0.3:
   version "3.0.17"
   resolved "https://registry.yarnpkg.com/pbkdf2/-/pbkdf2-3.0.17.tgz#976c206530617b14ebb32114239f7b09336e93a6"
@@ -5496,7 +5533,7 @@ process-nextick-args@~2.0.0:
   resolved "https://registry.yarnpkg.com/process-nextick-args/-/process-nextick-args-2.0.0.tgz#a37d732f4271b4ab1ad070d35508e8290788ffaa"
   integrity sha512-MtEC1TqN0EU5nephaJ4rAtThHtC86dNN9qCuEhtshvpVBkAW5ZO7BASN9REnF9eoXGcRub+pFuKEpOHE+HbEMw==
 
-process@^0.11.10:
+process@^0.11.1, process@^0.11.10:
   version "0.11.10"
   resolved "https://registry.yarnpkg.com/process/-/process-0.11.10.tgz#7332300e840161bda3e69a1d1d91a7d4bc16f182"
   integrity sha1-czIwDoQBYb2j5podHZGn1LwW8YI=
@@ -6840,6 +6877,13 @@ util@0.10.3:
   dependencies:
     inherits "2.0.1"
 
+util@^0.10.3:
+  version "0.10.4"
+  resolved "https://registry.yarnpkg.com/util/-/util-0.10.4.tgz#3aa0125bfe668a4672de58857d3ace27ecb76901"
+  integrity sha512-0Pm9hTQ3se5ll1XihRic3FDIku70C+iHUdT/W926rSgHV5QgXsYbKZN8MSC3tJtSkhuROzvsQjAaFENRXr+19A==
+  dependencies:
+    inherits "2.0.3"
+
 util@^0.11.0:
   version "0.11.1"
   resolved "https://registry.yarnpkg.com/util/-/util-0.11.1.tgz#3236733720ec64bb27f6e26f421aaa2e1b588d61"
@@ -6967,13 +7011,13 @@ vuepress-plugin-container@^2.0.0:
   dependencies:
     markdown-it-container "^2.0.0"
 
-vuepress@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-1.0.1.tgz#dae4a838ae194f2a85909bf4b05ef80311c745bd"
-  integrity sha512-JRNOmxxbkwythvhQAjcZAtsTv4B9rGMktwaiUfEQQnZ1nxC82eQovFmhfS95R/aqY1/5n5CD1+e0ReM+HTj4yg==
+vuepress@^1.0.0-rc.1:
+  version "1.0.0-rc.1"
+  resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-1.0.0-rc.1.tgz#f57fb35c4bac3e1b1438a53335acce0890a3f5f4"
+  integrity sha512-Qx8wuvROVMBNR1yQa038VGVyf09udNsn8DXsDQkFc2bYvNRV/0cHWt/N/V1r6WyUl+LsdFLn2QN3K79CUtwsCw==
   dependencies:
-    "@vuepress/core" "^1.0.1"
-    "@vuepress/theme-default" "^1.0.1"
+    "@vuepress/core" "^1.0.0-rc.1"
+    "@vuepress/theme-default" "^1.0.0-rc.1"
     cac "^6.3.9"
     envinfo "^7.2.0"
 
