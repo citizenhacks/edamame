@@ -62,11 +62,15 @@ export default {
     };
   },
   created() {},
+  beforeUpdate() {
+    this.transformData();
+  },
   mounted() {
     this.transformData();
   },
   methods: {
     transformData() {
+      this.hourList = [];
       let getTime = wordTime => {
         return {
           hour: parseInt(wordTime.substring(0, 2)),

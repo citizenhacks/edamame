@@ -23,6 +23,35 @@ export default {
       event: {
         activities: [
           {
+            name: "a",
+            start: "18:00",
+            end: "18:15",
+            color: "grey",
+            description: "This is a description of the activity."
+          },
+          {
+            name: "b",
+            start: "21:05",
+            end: "21:20",
+            color: "indianred",
+            description: "This is a description of the activity."
+          },
+          {
+            name: "c",
+            start: "21:45",
+            end: "22:00",
+            color: "lightgreen",
+            description: "This is a description of the activity."
+          }
+        ]
+      }
+    };
+  },
+  methods: {
+    dateChange: function() {
+      this.event = {
+        activities: [
+          {
             name: "Guest Arrival",
             start: "18:00",
             end: "18:15",
@@ -122,35 +151,6 @@ export default {
           },
           {
             name: "Cleanup",
-            start: "21:45",
-            end: "22:00",
-            color: "lightgreen",
-            description: "This is a description of the activity."
-          }
-        ]
-      }
-    };
-  },
-  methods: {
-    dateChange: function() {
-      this.event = {
-        activities: [
-          {
-            name: "a",
-            start: "18:00",
-            end: "18:15",
-            color: "grey",
-            description: "This is a description of the activity."
-          },
-          {
-            name: "b",
-            start: "21:05",
-            end: "21:20",
-            color: "indianred",
-            description: "This is a description of the activity."
-          },
-          {
-            name: "c",
             start: "21:45",
             end: "22:00",
             color: "lightgreen",
