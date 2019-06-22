@@ -178,6 +178,8 @@ export default {
   font-weight: bold;
   font-family: Gilroy;
   font-size: 16px;
-  background-color: #ffffff;
+  background: url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png)
+    no-repeat right #ffffff;
+  background-origin: content-box;
 }
 </style>
