@@ -1,6 +1,5 @@
 <template>
   <section id="timeline">
-    <v-dialog/>
     <div class="timeline-container">
       <div class="track">
         <p
@@ -104,6 +103,7 @@ export default {
       }
     },
     show(item) {
+      /*
       this.$modal.show("dialog", {
         title: item.name,
         text: `${item.start} - ${item.end}<br><br>${item.description}`,
@@ -113,6 +113,7 @@ export default {
           }
         ]
       });
+      */
     }
   }
 };

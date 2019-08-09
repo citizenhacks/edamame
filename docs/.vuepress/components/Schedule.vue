@@ -1,6 +1,5 @@
 <template>
   <section id="schedule">
-    <v-dialog/>
     <div class="activities" v-for="(item, index) in event.activities" :key="index">
       <div class="activity-container" @click="show(item)">
         <div class="pad"></div>
@@ -16,7 +15,6 @@
         <div class="pad"></div>
       </div>
     </div>
-    <modal name="hello-world">hello, world!</modal>
   </section>
 </template>
 
@@ -44,6 +42,7 @@ export default {
   },
   methods: {
     show(item) {
+      /*
       this.$modal.show("dialog", {
         title: item.name,
         text: `${item.start} - ${item.end}<br><br>${item.description}`,
@@ -53,6 +52,7 @@ export default {
           }
         ]
       });
+      */
     }
   }
 };
