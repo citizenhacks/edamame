@@ -1,0 +1,109 @@
+{
+    "activities": [
+        {
+          "name": "How to collaborate with GitHub",
+          "start": "00:00",
+          "end": "01:00",
+          "color": "blue",
+          "description": "This is a description of the activity."
+        },
+        {
+          "name": "Snack Time",
+          "start": "00:00",
+          "end": "01:30",
+          "color": "red",
+          "description": "This is a description of the activity."
+        },
+        {
+          "name": "Hacking",
+          "start": "00:00",
+          "end": "24:00",
+          "color": "black",
+          "description": "This is a description of the activity."
+        },
+        {
+          "name": "Breakfast",
+          "start": "07:00",
+          "end": "09:00",
+          "color": "red",
+          "description": "This is a description of the activity."
+        },
+        {
+          "name": "Youth as agents of change towards privacy by design - Mariel Garcia Montes",
+          "start": "08:30",
+          "end": "09:30",
+          "color": "blue",
+          "description": "This is a description of the activity."
+        },
+        {
+          "name": "Hands on workshop on DNS security - Cuneyt Karul",
+          "start": "10:00",
+          "end": "11:00",
+          "color": "blue",
+          "description": "This is a description of the activity."
+        },
+        {
+          "name": "TBD - Ian Goldberg",
+          "start": "11:15",
+          "end": "12:15",
+          "color": "blue",
+          "description": "This is a description of the activity."
+        },
+        {
+          "name": "Lunch",
+          "start": "12:00",
+          "end": "13:30",
+          "color": "red",
+          "description": "This is a description of the activity."
+        },
+        {
+          "name": "TBD - Miti Mazmudar",
+          "start": "12:30",
+          "end": "13:30",
+          "color": "blue",
+          "description": "This is a description of the activity."
+        },
+        {
+          "name": "Panel Discussion: Education for ethical design thinking - Grant Hutchison, Scott Campbell, Mariel Garcia Montes, Paul Heidebrecht",
+          "start": "14:00",
+          "end": "15:00",
+          "color": "blue",
+          "description": "This is a description of the activity."
+        },
+        {
+          "name": "Hackstudent workshop",
+          "start": "15:30",
+          "end": "17:30",
+          "color": "blue",
+          "description": "This is a description of the activity."
+        },
+        {
+          "name": "Dinner",
+          "start": "18:00",
+          "end": "19:30",
+          "color": "red",
+          "description": "This is a description of the activity."
+        },
+        {
+          "name": "The Future of AI in Society – Ada Support, Norton Rose Fulbright, Feroot",
+          "start": "18:30",
+          "end": "19:30",
+          "color": "blue",
+          "description": "This is a description of the activity."
+        },
+        {
+          "name": "Slideshow kareoke",
+          "start": "20:00",
+          "end": "21:00",
+          "color": "orange",
+          "description": "This is a description of the activity."
+        },
+        {
+          "name": "Vim competition",
+          "start": "22:00",
+          "end": "23:00",
+          "color": "orange",
+          "description": "This is a description of the activity."
+        }
+      ]
+}

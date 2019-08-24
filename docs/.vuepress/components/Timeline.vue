@@ -47,13 +47,12 @@ export default {
   },
   data() {
     return {
-      // sparkfest: JSON.parse(JSON.stringify(this.event)),
       colorMap: {},
       origin: 0,
       offsetX: 16,
       offsetY: 30,
       rowHeight: 25,
-      durationMultiplier: 10,
+      durationMultiplier: 5,
       startHour: 0,
       startMinute: 0,
       hourList: [],

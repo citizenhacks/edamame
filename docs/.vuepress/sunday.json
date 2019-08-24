@@ -1,0 +1,53 @@
+{
+    "activities": [
+        {
+          "name": "Snack Time",
+          "start": "00:00",
+          "end": "02:30",
+          "color": "red",
+          "description": "This is a description of the activity."
+        },
+        {
+          "name": "Hacking",
+          "start": "00:00",
+          "end": "9:15",
+          "color": "black",
+          "description": "This is a description of the activity."
+        },
+        {
+          "name": "Breakfast",
+          "start": "07:00",
+          "end": "09:00",
+          "color": "red",
+          "description": "This is a description of the activity."
+        },
+        {
+          "name": "Judging begins",
+          "start": "10:00",
+          "end": "11:30",
+          "color": "black",
+          "description": "This is a description of the activity."
+        },
+        {
+          "name": "Lunch",
+          "start": "11:30",
+          "end": "13:00",
+          "color": "red",
+          "description": "This is a description of the activity."
+        },
+        {
+          "name": "Closing ceremony",
+          "start": "13:00",
+          "end": "14:00",
+          "color": "black",
+          "description": "This is a description of the activity."
+        },
+        {
+          "name": "Bus Departure",
+          "start": "14:00",
+          "end": "14:15",
+          "color": "orange",
+          "description": "This is a description of the activity."
+        }
+      ]
+}
