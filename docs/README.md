@@ -1,6 +1,6 @@
 # Digital Pamphlet
 
-::: tip CitizenHacks Digital Panphlet.
+::: tip CitizenHacks Digital Pamphlet.
 For 36 hours, join students and leading innovators in tackling the challenge of privacy in the digital age.
 :::
 
@@ -15,44 +15,114 @@ For 36 hours, join students and leading innovators in tackling the challenge of 
 |Time|Event|
 |-------|-------|
 |17:00|Bus from Waterloo arrives|
-|17:15 to 18:15|Registration and Dinner|
+|17:15–18:15|Registration and Dinner|
 |18:15|Opening ceremony begins|
-|18:30 to 19:00|Keynote address from Dr. Ann Cavoukian|
+|18:30–19:00|[Keynote address](#keynote-address-from-dr-ann-cavoukian) from Dr. Ann Cavoukian|
 |19:30|Opening ceremony ends|
-|19:30 to 21:00|Team formation and sponsor fair|
-|19:30 to 20:30|Problem-Product Market Fit: How to build a product for a scalable business|
+|19:30–21:00|Team formation and sponsor fair|
+|19:30–20:30|[Problem-Product Market Fit: How to build a product for a scalable business](#problem-product-market-fit-–-how-to-build-a-product-for-a-scalable-business)|
 |21:00|HACKING BEGINS|
-|20:30 to 21:30|Putting PIPEDA into Practice: Generating privacy-based hack ideas|
-|21:45 to 22:45|Intro to Keybase Bots|
-|23:00 to 1:00|MLH Localhost: How to Collaborate with GitHub|
+|20:30–21:30|[Putting PIPEDA into Practice: Generating privacy-based hack ideas](#putting-pipeda-into-practice-–-generating-privacy-based-hack-ideas)|
+|21:45–22:45|[Intro to Keybase Bots](#intro-to-keybase-bots)|
+|23:00–1:00|[MLH Localhost: How to Collaborate with GitHub](#how-to-collaborate-with-github)|
 
 ### Saturday, September 7th
 
 |Time|Event|
 |-------|-------|
-|00:00 to 1:30| Midnight snack|
-|7:00 to 9:00|Breakfast|
-|10:00 to 11:00|A hands on workshop on DNS Security|
-|11:15 to 12:15|Privacy Enhancing Technologies for the Internet|
-|12:00 to 13:30|Lunch|
-|12:30 to 13:30|How to make an app that is not a privacy horror show|
-|14:00 to 15:00|Panel Discussion: Education for ethical design thinking|
-|15:30 to 17:30|Hands-on introduction to Offensive Cybersecurity|
-|18:00 to 19:30|Dinner|
-|18:30 to 19:30|The Future of AI in Society: from the perspective of three insiders|
-|20:00 to 21:00|Slideshow Karaoke|
+|00:00–1:30|Midnight snack|
+|7:00–9:00|Breakfast|
+|10:00–11:00|[A hands-on workshop on DNS Security](#a-hands-on-workshop-on-dns-security)|
+|11:15–12:15|[Privacy Enhancing Technologies for the Internet](#privacy-enhancing-technologies-for-the-internet)|
+|12:00–13:30|Lunch|
+|12:30–13:30|[How to make an app that is not a privacy horror show](#how-to-make-an-app-that-is-not-a-privacy-horror-show)|
+|14:00–15:00|[Panel Discussion: Education for ethical design thinking](#panel-discussion-education-for-ethical-design-thinking)|
+|15:30–17:30|[Hands-on introduction to Offensive Cybersecurity](#hands-on-introduction-to-offensive-cybersecurity)|
+|18:00–19:30|Dinner|
+|18:30–19:30|[The Future of AI in Society: from the perspective of three insiders](#the-future-of-ai-in-society-–-from-the-perspective-of-three-insiders)|
+|20:00–21:00|[Slideshow Karaoke](#slideshow-karaoke)|
 
 ### Sunday, September 8th
 
 |Time|Event|
 |-------|-------|
-|00:00 to 2:30|Midnight snack|
-|7:00 to 9:00|Breakfast|
+|00:00–2:30|Midnight snack|
+|7:00–9:00|Breakfast|
 |9:00|HACKING ENDS|
-|10:00 to 11:30|Judging|
-|11:30 to 13:00|Lunch|
-|13:00 to 14:00|Closing ceremonies|
+|10:00–11:30|Judging|
+|11:30–13:00|Lunch|
+|13:00–14:00|Closing ceremonies|
 |14:00|Bus to Waterloo departs|
+
+## Events
+
+### Keynote Address from Dr. Ann Cavoukian
+
+Friday, September 6th, 18:30–19:00
+
+Attend the opening ceremony to hear [Dr. Ann Cavoukian](#ann-cavoukian-keynote-speaker) speak about [Privacy by Design (PbD)](https://www.ipc.on.ca/wp-content/uploads/resources/7foundationalprinciples.pdf) and how youth can incorporate it into their thinking as designers and users of technology. Talk, followed by Q&A from the audience.
+
+### Problem-Product Market Fit – How to build a product for a scalable business
+
+Friday, September 6th, 19:30–20:30. Run by [Ivan Tsarynny](#ivan-tsarynny).
+
+### Putting PIPEDA into Practice – Generating privacy-based hack ideas
+
+Friday, September 6th, 20:30–21:30. Run by [Charlotte Wong](#charlotte-wong), [Eric Fulton](#eric-fulton) and [Ivan Tsarynny](#ivan-tsarynny).
+
+Learn about the legal requirements of privacy in Canada from the [Office of the Privacy Commissioner of Canada](https://www.priv.gc.ca/en/), and begin generating hack ideas with the support of industry experts.
+
+### Intro to Keybase Bots
+
+Friday, September 6th, 21:45–22:45. Run by [Josh Blum](#josh-blum).
+
+### How to Collaborate with GitHub
+
+Friday, September 6th, 23:00-1:00. Run by Marcel O'Neil.
+
+At this MLH Localhost workshop, you'll learn best practices for using GitHub to collaborate.
+
+### A hands-on workshop on DNS Security
+
+Saturday, September 7th, 10:00-11:00. Run by [Cuneyt Karul](#cuneyt-karul).
+
+Cuneyt Karul, Ph. D. is the Director of Information Security and Compliance for [BlueCat Networks](https://www.bluecatnetworks.com), a leading Enterprise DNS Software company. Cuneyt Karul will overview the importance of DNS both as an attack vector and from the viewpoint of detection and defense. The workshop will deep dive into how DNS is poisoned, can be used to ex-filtrate confidential data discretely and used to bypass common security controls. Bring your laptops!
+
+### Privacy Enhancing Technologies for the Internet
+
+Saturday, September 7th, 11:15-12:15. Talk from [Ian Goldberg](#ian-goldberg).
+
+The Internet is an essential tool for global communication and collaboration, but some governments dislike the free and open interaction it provides. Find out how Ian Goldberg of the [Cryptography, Security, and Privacy (CrySP) research group](https://crysp.uwaterloo.ca/) at the University of Waterloo is combating Internet censorship and surveillance with privacy-enhancing technologies.
+
+### How to make an app that is not a privacy horror show
+
+Saturday, September 7th, 12:30-13:30. Run by [Miti Mazmudar](#miti-mazmudar).
+
+Conventional software engineering paradigms do not require developers to engage in determining the privacy-relevant aspects of their design and thus often result in privacy horror shows. The [Privacy by Design (PbD)](https://www.ipc.on.ca/wp-content/uploads/resources/7foundationalprinciples.pdf) paradigm addresses this shortcoming, but in order to _implement_ the principles of PbD, developers need to know relevant tools. This workshop introduces _privacy enhancing technologies (PETS)_ to address various aspects of a privacy-by-design approach, through online walkthroughs of deployed technologies or through examples of prototypes.
+
+### Panel Discussion: Education for ethical design thinking
+
+Saturday, September 7th, 14:00-15:00. Panelists are [Grant Hutchison](#grant-hutchison), [Mariel García Montes](#mariel-garcia-montes), [Paul Heidebrecht](#paul-heidebrecht) and [Scott Campbell](#scott-campbell).
+
+The first step towards privacy by design is a mindset that cares about the social implications of technology. How can schools and universities cultivate this mindset in the next generation of users and innovators? Join an interdisciplinary panel of experts in thinking about this challenge, and get inspired to find answers with your own hacks. Panel discussion followed by Q&A.
+
+### Hands-on introduction to Offensive Cybersecurity
+
+Saturday, September 7th, 15:30-17:30. Run by [Helen Oakley](#helen-oakley), [Roy Firestein](#roy-firestein) and [Vitaly Volovich](#vitaly-volovich).
+
+This is going to be a very quick dive into the world of computer hacking: the bad guys, and the friendly hackers (like us). If you think of the internet as an organism, then we are the immune system; but in today’s fast paced world the criminals have an edge. We will explore the major incidents and trends that shook our world in the last few years, the shadowy entities behind these global attacks, and the widening gap in the supply of professionals and basic cybersecurity literacy that leaves all of us vulnerable. Get a feel for what it's like to be an offensive cybersecurity professional by learning several common hacking techniques, and performing real attacks against a website and a Wifi network.
+
+### The Future of AI in Society – from the perspective of three insiders
+
+Saturday, September 7th, 18:30-19:30. Panelists are [Anson MacKeracher](#anson-mackeracher), [David Hariri](#david-hariri), [Ivan Tsarynny](#ivan-tsarynny) and [Laila Paszti](#laila-paszti).
+
+Come join us for a panel discussion and Q&A featuring three firms at the cutting edge of the rapidly developing field of AI. Hear their stories and contribute to a discussion about the challenges and pathways towards implementing the recently-released [OECD AI Principles for responsible stewardship of trustworthy AI](https://www.oecd.org/going-digital/ai/principles/).
+
+### Slideshow Karaoke
+
+Saturday, September 7th, 20:00-21:00. Run by Paige from MLH.
+
+Slideshow Karaoke is a fun game where participants are called up to the stage one at a time. The audience will shout out topics and organizer will use those topic suggestions to find a random yet topical slide deck on the Internet. The participant on stage will then present the slide deck without getting to view the content. The organizer will keep time and progress the slide deck as the participant makes their presentation.
 
 ## Speakers
 
@@ -93,6 +163,8 @@ Cuneyt Karul has over two decades of experience in software development, archite
 
 ### David Hariri
 
+[Website](https://www.ada.support/about)
+
 Co-founder & Head of Strategic Product, Ada
 
 - The Future of AI in Society – from the perspective of three insiders
@@ -106,7 +178,7 @@ Eric Fulton is the Identity Evangelist for Keybase. With over 10 years experienc
 - Putting PIPEDA into Practice – Generating privacy-based hack ideas
 - Intro to Keybase Bots
 
-### Grant Hutchson
+### Grant Hutchison
 
 [Website](http://csteacher.ca)
 
@@ -122,26 +194,11 @@ Helen is a cybersecurity enthusiast and a data privacy expert. She works as Secu
 
 - Hands-on introduction to Offensive Cybersecurity
 
-### Ian Golderg
+### Ian Goldberg
 
 [Website](https://cs.uwaterloo.ca/~iang)
 
-Ian Goldberg is the Canada Research Chair in Privacy Enhancing
-Technologies. He is a Professor in the Cheriton School of Computer
-Science at the University of Waterloo, where he is a founding member of
-the Cryptography, Security, and Privacy (CrySP) research group. He
-holds a Ph.D. from the University of California, Berkeley, where he
-discovered serious weaknesses in a number of widely deployed security
-systems, including those used by cellular phones and wireless networks.
-He also studied systems for protecting the personal privacy of Internet
-users, which led to his role as Chief Scientist at Zero-Knowledge
-Systems, a Montreal-based startup. His research currently focuses on
-developing usable and useful technologies to help Internet users
-maintain their security and privacy. He is a Distinguished Member of
-the Association for Computing Machinery and a winner of the Outstanding
-Young Computer Science Researcher Award, the Electronic Frontier
-Foundation's Pioneer Award, and the Caspar Bowden Award for Outstanding
-Research in Privacy Enhancing Technologies.
+Ian Goldberg is the Canada Research Chair in Privacy Enhancing Technologies. He is a Professor in the Cheriton School of Computer Science at the University of Waterloo, where he is a founding member of the Cryptography, Security, and Privacy (CrySP) research group. He holds a Ph.D. from the University of California, Berkeley, where he discovered serious weaknesses in a number of widely deployed security systems, including those used by cellular phones and wireless networks. He also studied systems for protecting the personal privacy of Internet users, which led to his role as Chief Scientist at Zero-Knowledge Systems, a Montreal-based startup. His research currently focuses on developing usable and useful technologies to help Internet users maintain their security and privacy. He is a Distinguished Member of the Association for Computing Machinery and a winner of the Outstanding Young Computer Science Researcher Award, the Electronic Frontier Foundation's Pioneer Award, and the Caspar Bowden Award for Outstanding Research in Privacy Enhancing Technologies.
 
 - Privacy Enhancing Technologies for the Internet
 
@@ -157,9 +214,13 @@ Ivan Tsarynny is the CEO and Co-Founder of Feroot, a company that works with sec
 
 [Website](https://www.nortonrosefulbright.com/en/people/137335)
 
+Laila Paszti delivers strategic legal advice and brings a unique technology-focused perspective to achieve optimal outcomes for clients. For clients, a key strength is her ability to leverage her legal, technical and industry experience to quickly identify, assess, and mitigate IP and technology risks to maximize value and minimize issues.
+
+Laila’s  practice focuses on mergers and acquisitions, licensing, and other technology-related transactions, with an emphasis on software code audits and big data platform diligence.  She routinely advises on evolving multi-jurisdictional privacy regimes, cybersecurity, and data protection controls.
+
 - The Future of AI in Society – from the perspective of three insiders
 
-### Mariel Garcia Montes
+### Mariel García Montes
 
 - Panel Discussion: Education for ethical design thinking
 
