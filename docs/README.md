@@ -1,6 +1,6 @@
 # Digital Pamphlet
 
-::: tip CitizenHacks Digital Pamphlet.
+::: tip Citizen Hacks Digital Pamphlet.
 For 36 hours, join students and leading innovators in tackling the challenge of privacy in the digital age.
 :::
 
@@ -263,7 +263,3 @@ Scott Campbell is a Systems Design Engineering Lecturer and Director of the Cent
 Vitaly is a system architect and security expert who has been up and down the development stack. He is Co-Founder and CTO at ParkPass, and hacks together slick websites for fun.
 
 - Hands-on introduction to Offensive Cybersecurity
-
-## Map
-
-## Emergency

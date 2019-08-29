@@ -8,8 +8,7 @@ module.exports = {
     activeHeaderLinks: true,
     nav: false,
     sidebar: 'auto',
-    lastUpdated: 'Last Updated',
-    displayAllHeaders: true
+    lastUpdated: 'Last Updated'
   },
   dest: 'public'
 };
