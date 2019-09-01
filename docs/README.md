@@ -1,12 +1,42 @@
 # Digital Pamphlet
 
-::: tip CitizenHacks Digital Pamphlet.
-For 36 hours, join students and leading innovators in tackling the challenge of privacy in the digital age.
+::: tip Citizen Hacks Digital Pamphlet.
+Check out this document for everything you need to know about Citizen Hacks! It will be updated regularly in the days leading up to the event, as well as during the event.
 :::
 
 ## Table of Contents
 
 [[toc]]
+
+## General Information
+
+Registration opens at 17:15 (5:15pm) on Friday the 6th, and will remain open all evening. The opening ceremony will begin at 18:15, with [Dr. Ann Cavoukian](#ann-cavoukian-keynote-speaker) speaking from 18:30 to 19:00, and is an integral part of the hackathon. _We strongly recommend attending the opening ceremony, as [Dr. Cavoukian's address](#keynote-address-from-dr-ann-cavoukian) will introduce the central criteria for judging your hacks._
+
+### Bus from Waterloo
+
+There will be a bus with space for 46 hackers coming from Waterloo. [Reserve tickets, first come, first served, here](https://www.eventbrite.com/e/citizen-hacks-bus-signup-tickets-70637248913). Details as follows:
+
+Friday September 6
+- 14:00–14:30: Pick up in front of [Hagey Hall at the University of Waterloo](https://www.google.com/maps/place/Hagey+Hall,+University+of,+Waterloo,+ON+N2L+3G1/@43.4679388,-80.5409413,18.98z/data=!4m5!3m4!1s0x882bf402faaf2993:0x2c2ea35325263b3d!8m2!3d43.4678775!4d-80.5415217). Please bring a student card or government-issued photo ID to confirm your seat on the bus.
+- 14:15: Any unreserved seats on the bus will be opened up first come, first served to participants at the bus stop who have not reserved tickets.
+- 14:30: The bus leaves.
+- 16:15: Arrival [at the venue in Toronto](https://www.google.com/maps/place/720+Bathurst+St,+Toronto,+ON+J4Y+0K7/@43.66315,-79.4130122,17z/data=!3m1!4b1!4m5!3m4!1s0x882b349304dd2a53:0x1f92801e13841c0!8m2!3d43.6631461!4d-79.4108235).
+
+Sunday September 8
+- 14:00–14:15: Pick up from the Citizen Hacks venue to return to Waterloo.
+- 14:15: Bus departs for Waterloo.
+- 16:00: Drop off at Hagey Hall.
+
+### What to bring
+
+- Student card or government-issued photo ID to present at registration
+- Your laptop and any other hardware you're planning to hack with
+- A reusable water bottle
+- If you're planning on staying overnight at the venue, bring a sleeping bag and pillow to get comfy!
+
+### What NOT to bring
+
+- Money to buy food. All your meals will be provided for free!
 
 ## Schedule
 
@@ -56,11 +86,13 @@ For 36 hours, join students and leading innovators in tackling the challenge of 
 
 ## Events
 
+At Citizen Hacks, you'll have the chance to develop skills and experience creating privacy-oriented technology, [now a top priority for companies and organizations](https://www.forbes.com/sites/forbestechcouncil/2018/04/10/privacy-by-design-is-important-for-every-area-of-your-business/#518f34565bde). Check out our program of workshops, panels and talks, run by experts and industry leaders in the field of privacy:
+
 ### Keynote Address from Dr. Ann Cavoukian
 
 Friday, September 6th, 18:30–19:00
 
-Attend the opening ceremony to hear [Dr. Ann Cavoukian](#ann-cavoukian-keynote-speaker) speak about [Privacy by Design (PbD)](https://www.ipc.on.ca/wp-content/uploads/resources/7foundationalprinciples.pdf) and how youth can incorporate it into their thinking as designers and users of technology. Talk, followed by Q&A from the audience.
+Attend the opening ceremony to hear [Dr. Ann Cavoukian](#ann-cavoukian-keynote-speaker) speak about [Privacy by Design (PbD)](https://www.ipc.on.ca/wp-content/uploads/resources/7foundationalprinciples.pdf) and how youth can incorporate it into their thinking as designers and users of technology. This is an integral part of the hackathon, where Dr. Cavoukian will introduce the central criteria for judging your hacks. Talk, followed by Q&A from the audience.
 
 ### Problem-Product Market Fit – How to build a product for a scalable business
 
@@ -74,7 +106,7 @@ Learn about the legal requirements of privacy in Canada from the [Office of the 
 
 ### Intro to Keybase Bots
 
-Friday, September 6th, 21:45–22:45. Run by [Josh Blum](#josh-blum).
+Friday, September 6th, 21:45–22:45. Run by [Josh Blum](#josh-blum) and [Eric Fulton](#eric-fulton).
 
 ### How to Collaborate with GitHub
 
@@ -135,7 +167,7 @@ Dr. Cavoukian is now the Executive Director of the Global Privacy & Security by 
 
 Dr. Cavoukian is the author of two books, “The Privacy Payoff: How Successful Businesses Build Customer Trust” with Tyler Hamilton, and “Who Knows: Safeguarding Your Privacy in a Networked World” with Don Tapscott. She has received numerous awards recognizing her leadership in privacy, including being named as one of the _Top 25 Women of Influence in Canada_, named as one of the _Top 10 Women in Data Security and Privacy_, and named as one of the ‘_Power 50_’ by Canadian Business. She was awarded the _Meritorious Service Medal_ by the Governor General of Canada for her outstanding work on creating Privacy by Design and taking it global (May, 2017), named as one of the _50 Most Impactful Smart Cities Leaders_ (November, 2017), named among the _Top Women in Tech_ (December, 2017), was awarded the _Toastmasters Communication and Leadership Award_ (April, 2018), recognized among the _Top 100 Identity Influencers_ (February, 2019), and most recently, she was named among the _Top 18 Global AI Influencers within the AI & Tech Space_ (February, 2019).
 
-- Keynote Address
+- [Keynote Address](#keynote-address-from-dr-ann-cavoukian)
 
 ### Anson MacKeracher
 
@@ -143,7 +175,7 @@ Dr. Cavoukian is the author of two books, “The Privacy Payoff: How Successful 
 
 Anson is a veteran technology startup executive who has led engineering teams at Top Hat, Tilt (acquired by AirBnB), and most recently Ada, one of North America's fastest growing AI companies. Anson holds an engineering degree from the University of Waterloo.
 
-- The Future of AI in Society – from the perspective of three insiders
+- [The Future of AI in Society – from the perspective of three insiders](#the-future-of-ai-in-society-–-from-the-perspective-of-three-insiders)
 
 ### Charlotte Wong
 
@@ -151,7 +183,7 @@ Anson is a veteran technology startup executive who has led engineering teams at
 
 Charlotte Wong is a Senior Privacy Advisor who works in the Business Advisory Directorate of the OPC in Toronto. In this role, she provides advice to businesses subject to PIPEDA in the context of advisory services for new programs and initiatives, reviews existing privacy practices and conducts proactive engagements with the business community. Prior to her advisory role, Ms. Wong worked as a Senior Privacy Investigator at the OPC where she conducted investigations under PIPEDA about the collection, use and disclosure of personal information in the course of commercial activities. Ms. Wong graduated from the Schulich School of Business and obtained her International Bachelor of Business Administration degree, with a specialization in Marketing and Organizational Behaviour. After graduation, Ms. Wong worked in various private and public sector organizations before joining the OPC in 2015.
 
-- Putting PIPEDA into Practice – Generating privacy-based hack ideas
+- [Putting PIPEDA into Practice – Generating privacy-based hack ideas](#putting-pipeda-into-practice-–-generating-privacy-based-hack-ideas)
 
 ### Cuneyt Karul
 
@@ -159,7 +191,7 @@ Charlotte Wong is a Senior Privacy Advisor who works in the Business Advisory Di
 
 Cuneyt Karul has over two decades of experience in software development, architecture and information security. He is a CISSP, CISM and RESILIA certified security professional who holds multiple security-related patents. Currently he is the Director of Information Security and Compliance at BlueCat, a global enterprise DNS software and hardware provider.
 
-- A hands on workshop on DNS Security
+- [A hands-on workshop on DNS Security](#a-hands-on-workshop-on-dns-security)
 
 ### David Hariri
 
@@ -167,7 +199,7 @@ Cuneyt Karul has over two decades of experience in software development, archite
 
 Co-founder & Head of Strategic Product, Ada
 
-- The Future of AI in Society – from the perspective of three insiders
+- [The Future of AI in Society – from the perspective of three insiders](#the-future-of-ai-in-society-–-from-the-perspective-of-three-insiders)
 
 ### Eric Fulton
 
@@ -175,14 +207,14 @@ Co-founder & Head of Strategic Product, Ada
 
 Eric Fulton is the Identity Evangelist for Keybase. With over 10 years experience advocating for privacy and Internet freedom Eric continues his mission of contributing to a secure, free, open Internet. Prior to Keybase Eric started an ISP, presented research at global hacker conferences, and helped draft model privacy legislation. In his free time he can be found hiking mountains and exploring the world.
 
-- Putting PIPEDA into Practice – Generating privacy-based hack ideas
-- Intro to Keybase Bots
+- [Putting PIPEDA into Practice – Generating privacy-based hack ideas](#putting-pipeda-into-practice-–-generating-privacy-based-hack-ideas)
+- [Intro to Keybase Bots](#intro-to-keybase-bots)
 
 ### Grant Hutchison
 
 [Website](http://csteacher.ca)
 
-- 14:00 to 15:00: Panel Discussion: Education for ethical design thinking
+- [Panel Discussion: Education for ethical design thinking](#panel-discussion-education-for-ethical-design-thinking)
 
 Grant is a high school Computer Science and Engineering teacher at Malvern CI (TDSB – Toronto District School Board). As a Sessional Facilitator for the University of Toronto (OISE – Ontario Institute for Studies in Education) he enables in-service teachers to teach high school Computer Science courses. Prior to joining the TDSB, he held a variety of technical and leadership roles at IBM Canada for over 18 years. Grant is a frequent speaker at educational conferences and is an executive member and conference chair fo the Association of Computer Science Education (ACSE) of Ontario. He is an author, inventor, and advocate for K-12 Computer Science Education in Canada.
 
@@ -192,7 +224,7 @@ Grant is a high school Computer Science and Engineering teacher at Malvern CI (T
 
 Helen is a cybersecurity enthusiast and a data privacy expert. She works as Security Product Owner for Financial Services portfolio of web applications at SAP. Helen is also a co-organizer of #CyberLadies Toronto chapter and a public speaker in cybersecurity.
 
-- Hands-on introduction to Offensive Cybersecurity
+- [Hands-on introduction to Offensive Cybersecurity](#hands-on-introduction-to-offensive-cybersecurity)
 
 ### Ian Goldberg
 
@@ -200,7 +232,7 @@ Helen is a cybersecurity enthusiast and a data privacy expert. She works as Secu
 
 Ian Goldberg is the Canada Research Chair in Privacy Enhancing Technologies. He is a Professor in the Cheriton School of Computer Science at the University of Waterloo, where he is a founding member of the Cryptography, Security, and Privacy (CrySP) research group. He holds a Ph.D. from the University of California, Berkeley, where he discovered serious weaknesses in a number of widely deployed security systems, including those used by cellular phones and wireless networks. He also studied systems for protecting the personal privacy of Internet users, which led to his role as Chief Scientist at Zero-Knowledge Systems, a Montreal-based startup. His research currently focuses on developing usable and useful technologies to help Internet users maintain their security and privacy. He is a Distinguished Member of the Association for Computing Machinery and a winner of the Outstanding Young Computer Science Researcher Award, the Electronic Frontier Foundation's Pioneer Award, and the Caspar Bowden Award for Outstanding Research in Privacy Enhancing Technologies.
 
-- Privacy Enhancing Technologies for the Internet
+- [Privacy Enhancing Technologies for the Internet](#privacy-enhancing-technologies-for-the-internet)
 
 ### Ivan Tsarynny
 
@@ -208,7 +240,17 @@ Ian Goldberg is the Canada Research Chair in Privacy Enhancing Technologies. He 
 
 Ivan Tsarynny is the CEO and Co-Founder of Feroot, a company that works with security, privacy, and data protection departments to monitor the client side surface attack area of websites and web apps. Having previously co-founded PostBeyond—a revolutionary communications tool for marketing professionals—Ivan is well aware of the growing need for third-party tools to track and analyze customer and user behavior. As co-founder of Feroot, Ivan hopes to make it easier for security and privacy teams to gain visibility into potential security risks and vulnerabilities introduced by the third- and fourth-party tools such as web trackers, chatbots, tag managers, analytics and more. Ultimately, his goal is to shift the perception of regulatory security and privacy compliance to a competitive, business advantage and help security and privacy teams collaborate better with marketing, sales and customer success. Since launching in 2017, Feroot received the NextAI Top Venture Award for outstanding progress helping companies comply with data protection and security regulations. Ivan is also an active member of the GDPR Advisory Committee at the Standard Council of Canada.
 
-- Problem-Product Market Fit – How to build a product for a scalable business
+- [Problem-Product Market Fit – How to build a product for a scalable business](#problem-product-market-fit-–-how-to-build-a-product-for-a-scalable-business)
+- [Putting PIPEDA into Practice – Generating privacy-based hack ideas](#putting-pipeda-into-practice-–-generating-privacy-based-hack-ideas)
+- [The Future of AI in Society – from the perspective of three insiders](#the-future-of-ai-in-society-–-from-the-perspective-of-three-insiders)
+
+### Josh Blum
+
+[Website](https://keybase.io/joshblum)
+
+Software Engineer, Keybase
+
+- [Intro to Keybase Bots](#intro-to-keybase-bots)
 
 ### Laila Paszti
 
@@ -218,11 +260,11 @@ Laila Paszti delivers strategic legal advice and brings a unique technology-focu
 
 Laila’s  practice focuses on mergers and acquisitions, licensing, and other technology-related transactions, with an emphasis on software code audits and big data platform diligence.  She routinely advises on evolving multi-jurisdictional privacy regimes, cybersecurity, and data protection controls.
 
-- The Future of AI in Society – from the perspective of three insiders
+- [The Future of AI in Society – from the perspective of three insiders](#the-future-of-ai-in-society-–-from-the-perspective-of-three-insiders)
 
 ### Mariel García Montes
 
-- Panel Discussion: Education for ethical design thinking
+- [Panel Discussion: Education for ethical design thinking](#panel-discussion-education-for-ethical-design-thinking)
 
 ### Miti Mazmudar
 
@@ -230,7 +272,7 @@ Laila’s  practice focuses on mergers and acquisitions, licensing, and other te
 
 Miti Mazmudar is a PhD student and researcher in the Cryptography, Security and Privacy lab (CrySP) in the University of Waterloo. Her Masters research was focused on ensuring compliance of privacy policies with source code using trusted hardware platforms. She has also been working on censorship-resistant publishing systems. In general, she in interested in designing and implementing privacy tools that are dictated by the needs of people.
 
-- How to make an app that is not a privacy horror show
+- [How to make an app that is not a privacy horror show](#how-to-make-an-app-that-is-not-a-privacy-horror-show)
 
 ### Paul Heidebrecht
 
@@ -238,7 +280,7 @@ Miti Mazmudar is a PhD student and researcher in the Cryptography, Security and 
 
 Paul Heidebrecht is the inaugural director of the Kindred Credit Union Centre for Peace Advancement, and teaches courses in Peace and Conflict Studies at Conrad Grebel University / University of Waterloo. His current research interests reflect a range of academic fields and professional experiences, including the intersection of social innovation and peacebuilding, political advocacy, and technology and ethics. He holds a Ph.D. in religious studies from Marquette University, and a B.A.Sc. in mechanical engineering from the University of Waterloo.
 
-- Panel Discussion: Education for ethical design thinking
+- [Panel Discussion: Education for ethical design thinking](#panel-discussion-education-for-ethical-design-thinking)
 
 ### Roy Firestein
 
@@ -246,7 +288,7 @@ Paul Heidebrecht is the inaugural director of the Kindred Credit Union Centre fo
 
 Roy is a strategist, seasoned hacker, and renowned investigator who gets consulted whenever international hacking scandals break out. He is fluent in Geek, and currently serves as the Chief Product Officer at Cycura.
 
-- Hands-on introduction to Offensive Cybersecurity
+- [Hands-on introduction to Offensive Cybersecurity](#hands-on-introduction-to-offensive-cybersecurity)
 
 ### Scott Campbell
 
@@ -254,7 +296,7 @@ Roy is a strategist, seasoned hacker, and renowned investigator who gets consult
 
 Scott Campbell is a Systems Design Engineering Lecturer and Director of the Centre for Society, Technology and Values (CSTV) at the University of Waterloo. His research revolves around the role of technology in Canadian society with specific focus on the history of computing technology and science in Canada. He is also a co-founder of the University of Waterloo Computer Museum.
 
-- Panel Discussion: Education for ethical design thinking
+- [Panel Discussion: Education for ethical design thinking](#panel-discussion-education-for-ethical-design-thinking)
 
 ### Vitaly Volovich
 
@@ -262,7 +304,27 @@ Scott Campbell is a Systems Design Engineering Lecturer and Director of the Cent
 
 Vitaly is a system architect and security expert who has been up and down the development stack. He is Co-Founder and CTO at ParkPass, and hacks together slick websites for fun.
 
-- Hands-on introduction to Offensive Cybersecurity
+- [Hands-on introduction to Offensive Cybersecurity](#hands-on-introduction-to-offensive-cybersecurity)
+
+## Judges
+
+**Anindita Bose**, Program/Project Manager, Global Privacy and Security by Design
+
+**Anthony de Fazekas**, Head of Technology and Innovation, Canada, Partner, Norton Rose Fulbright
+
+**Derek Rayside**, Associate Professor, University of Waterloo Department of Electrical and Computer Engineering
+
+[**Grant Hutchison**](#grant-hutchison), Computer Science Teacher, Malvern Collegiate Institute
+
+[**Josh Blum**](#josh-blum), Software Engineer, Keybase
+
+**Lauren Eikerman**, Executive Assistant & Project Manager, Rogers Cybersecure Catalyst
+
+**Rollen D’Souza**, PhD Student, University of Waterloo
+
+**Sapna Malhotra**, CEO, Digiruptor
+
+[**Vitaliy Lim**](https://www.linkedin.com/in/vitaliylim/), Co-Founder & CTO, Feroot
 
 ## Map
 
