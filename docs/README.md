@@ -325,7 +325,3 @@ Vitaly is a system architect and security expert who has been up and down the de
 **Sapna Malhotra**, CEO, Digiruptor
 
 [**Vitaliy Lim**](https://www.linkedin.com/in/vitaliylim/), Co-Founder & CTO, Feroot
-
-## Map
-
-## Emergency
