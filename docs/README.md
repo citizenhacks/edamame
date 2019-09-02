@@ -354,7 +354,3 @@ Vitaly is a system architect and security expert who has been up and down the de
 **Second Place**: Portable Charger + one $120 Amazon Gift Card
 
 **Third Place**: One $120 Amazon Gift Card
-
-## Map
-
-## Emergency
