@@ -4,40 +4,6 @@
 Check out this document for everything you need to know about Citizen Hacks! It will be updated regularly in the days leading up to the event, as well as during the event.
 :::
 
-## Table of Contents
-
-[[toc]]
-
-## General Information
-
-Registration opens at 17:15 (5:15pm) on Friday the 6th, and will remain open all evening. The opening ceremony will begin at 18:15, with [Dr. Ann Cavoukian](#ann-cavoukian-keynote-speaker) speaking from 18:30 to 19:00, and is an integral part of the hackathon. _We strongly recommend attending the opening ceremony, as [Dr. Cavoukian's address](#keynote-address-from-dr-ann-cavoukian) will introduce the central criteria for judging your hacks._
-
-### Bus from Waterloo
-
-There will be a bus with space for 46 hackers coming from Waterloo. [Reserve tickets, first come, first served, here](https://www.eventbrite.com/e/citizen-hacks-bus-signup-tickets-70637248913). Details as follows:
-
-Friday September 6
-- 14:00–14:30: Pick up in front of [Hagey Hall at the University of Waterloo](https://www.google.com/maps/place/Hagey+Hall,+University+of,+Waterloo,+ON+N2L+3G1/@43.4679388,-80.5409413,18.98z/data=!4m5!3m4!1s0x882bf402faaf2993:0x2c2ea35325263b3d!8m2!3d43.4678775!4d-80.5415217). Please bring a student card or government-issued photo ID to confirm your seat on the bus.
-- 14:15: Any unreserved seats on the bus will be opened up first come, first served to participants at the bus stop who have not reserved tickets.
-- 14:30: The bus leaves.
-- 16:15: Arrival [at the venue in Toronto](https://www.google.com/maps/place/720+Bathurst+St,+Toronto,+ON+J4Y+0K7/@43.66315,-79.4130122,17z/data=!3m1!4b1!4m5!3m4!1s0x882b349304dd2a53:0x1f92801e13841c0!8m2!3d43.6631461!4d-79.4108235).
-
-Sunday September 8
-- 14:00–14:15: Pick up from the Citizen Hacks venue to return to Waterloo.
-- 14:15: Bus departs for Waterloo.
-- 16:00: Drop off at Hagey Hall.
-
-### What to bring
-
-- Student card or government-issued photo ID to present at registration
-- Your laptop and any other hardware you're planning to hack with
-- A reusable water bottle
-- If you're planning on staying overnight at the venue, bring a sleeping bag and pillow to get comfy!
-
-### What NOT to bring
-
-- Money to buy food. All your meals will be provided for free!
-
 ## Schedule
 
 ### Friday, September 6th
@@ -83,6 +49,57 @@ Sunday September 8
 |11:30–13:00|Lunch|
 |13:00–14:00|Closing ceremonies|
 |14:00|Bus to Waterloo departs|
+
+## General Information
+
+Registration opens at 17:15 (5:15pm) on Friday the 6th, and will remain open all evening. The opening ceremony will begin at 18:15, with [Dr. Ann Cavoukian](#ann-cavoukian-keynote-speaker) speaking from 18:30 to 19:00, and is an integral part of the hackathon. _We strongly recommend attending the opening ceremony, as [Dr. Cavoukian's address](#keynote-address-from-dr-ann-cavoukian) will introduce the central criteria for judging your hacks._
+
+### Bus from Waterloo
+
+There will be a bus with space for 46 hackers coming from Waterloo. [Reserve tickets, first come, first served, here](https://www.eventbrite.com/e/citizen-hacks-bus-signup-tickets-70637248913). Details as follows:
+
+Friday September 6
+- 14:00–14:30: Pick up in front of [Hagey Hall at the University of Waterloo](https://www.google.com/maps/place/Hagey+Hall,+University+of,+Waterloo,+ON+N2L+3G1/@43.4679388,-80.5409413,18.98z/data=!4m5!3m4!1s0x882bf402faaf2993:0x2c2ea35325263b3d!8m2!3d43.4678775!4d-80.5415217). Please bring a student card or government-issued photo ID to confirm your seat on the bus.
+- 14:15: Any unreserved seats on the bus will be opened up first come, first served to participants at the bus stop who have not reserved tickets.
+- 14:30: The bus leaves.
+- 16:15: Arrival [at the venue in Toronto](https://www.google.com/maps/place/720+Bathurst+St,+Toronto,+ON+J4Y+0K7/@43.66315,-79.4130122,17z/data=!3m1!4b1!4m5!3m4!1s0x882b349304dd2a53:0x1f92801e13841c0!8m2!3d43.6631461!4d-79.4108235).
+
+Sunday September 8
+- 14:00–14:15: Pick up from the Citizen Hacks venue to return to Waterloo.
+- 14:15: Bus departs for Waterloo.
+- 16:00: Drop off at Hagey Hall.
+
+### What to bring
+
+- Student card or government-issued photo ID to present at registration
+- Your laptop and any other hardware you're planning to hack with
+- A reusable water bottle
+- If you're planning on staying overnight at the venue, bring a sleeping bag and pillow to get comfy!
+
+### What NOT to bring
+
+- Money to buy food. All your meals will be provided for free!
+
+## Resources on Privacy
+
+Looking for ideas for your privacy-themed hackathon project? Check out some of these resources, covering both general material on privacy and three specific focuses—AI, cybersecurity, and education:
+
+- [Dr. Ann Cavoukian's Privacy by Design Framework](https://www.ipc.on.ca/wp-content/uploads/resources/7foundationalprinciples.pdf).
+- [The Berkman Klein Center for Internet and Society](https://cyber.harvard.edu).
+- [The Citizen Lab](https://citizenlab.ca/) at the University of Toronto.
+- Norton Rose Fulbright's [Data Protection Report](https://www.dataprotectionreport.com/) blog.
+- A guide to the [General Data Protection Regulation](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/principles/).
+- The [International Association of Privacy Professionals](https://iapp.org/) website.
+- [The Office of the Privacy Commissioner of Canada](https://www.priv.gc.ca/en/).
+- [The Privacy Project](https://www.nytimes.com/series/new-york-times-privacy-project) by the New York Times–an ongoing collection of articles on different privacy-related issues.
+- Norton Rose Fulbright's [site on the ethical and legal implications of AI](https://www.insidetechlaw.com/artificial-intelligence/).
+- [The OECD AI Principles](https://www.oecd.org/going-digital/ai/principles/) for responsible stewardship of trustworthy AI.
+- The [Cryptography, Security and Privacy](https://crysp.uwaterloo.ca/) research centre at the University of Waterloo.
+- The [Open Web Application Security Project](https://www.owasp.org/index.php/Main_Page) wiki—a collection of tools, projects, and information on cybersecurity.
+- [Privacy and Security by Design](https://www.ipc.on.ca/wp-content/uploads/Resources/pbd-privacy-and-security-by-design-oracle.pdf)
+- [Embedded EthiCS @ Harvard](https://embeddedethics.seas.harvard.edu/).
+- The [PicoCTF competition](https://picoctf.com/) for middle and high school students.
+- [Youth and Media](http://youthandmedia.org/) at the Berkman Klein Center.
 
 ## Events
 
@@ -306,7 +323,9 @@ Vitaly is a system architect and security expert who has been up and down the de
 
 - [Hands-on introduction to Offensive Cybersecurity](#hands-on-introduction-to-offensive-cybersecurity)
 
-## Judges
+## Judging
+
+### Judges
 
 **Anindita Bose**, Program/Project Manager, Global Privacy and Security by Design
 
@@ -320,11 +339,21 @@ Vitaly is a system architect and security expert who has been up and down the de
 
 **Lauren Eikerman**, Executive Assistant & Project Manager, Rogers Cybersecure Catalyst
 
+**Mariel García Montes**, Researcher, Berkman Klein Center for Internet and Society
+
 **Rollen D’Souza**, PhD Student, University of Waterloo
 
 **Sapna Malhotra**, CEO, Digiruptor
 
 [**Vitaliy Lim**](https://www.linkedin.com/in/vitaliylim/), Co-Founder & CTO, Feroot
+
+### Prizes
+
+**First Place**: [YubiKeys](https://www.yubico.com) + one $120 Amazon Gift Card
+
+**Second Place**: Portable Charger + one $120 Amazon Gift Card
+
+**Third Place**: One $120 Amazon Gift Card
 
 ## Map
 
