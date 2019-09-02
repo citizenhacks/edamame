@@ -42,7 +42,7 @@ Check out this document for everything you need to know about Citizen Hacks! It 
 
 |Time|Event|
 |-------|-------|
-|00:00–2:30|Midnight snack|
+|00:00–1:30|Midnight snack|
 |7:00–9:00|Breakfast|
 |9:00|HACKING ENDS|
 |10:00–11:30|Judging|
@@ -75,10 +75,7 @@ Sunday September 8
 - Your laptop and any other hardware you're planning to hack with
 - A reusable water bottle
 - If you're planning on staying overnight at the venue, bring a sleeping bag and pillow to get comfy!
-
-### What NOT to bring
-
-- Money to buy food. All your meals will be provided for free!
+- All your meals will be provided for free!
 
 ## Resources on Privacy
 
@@ -349,11 +346,27 @@ Vitaly is a system architect and security expert who has been up and down the de
 
 ### Prizes
 
-**First Place**: [YubiKeys](https://www.yubico.com) + one $120 Amazon Gift Card
+All quantities are to be split evenly among the winning team:
 
-**Second Place**: Portable Charger + one $120 Amazon Gift Card
+**First Place**
+- 4x [Yubico YubiKey 5 NFC](https://www.yubico.com/products/yubikey-5-overview/) - Two Factor Authentication USB and NFC Security Key
+- 4x ProtonMail Plus yearly accounts
+- $120 of Amazon Credit
 
-**Third Place**: One $120 Amazon Gift Card
+**Second Place**
+- 4x Portable Charger
+- 4x ProtonMail Plus yearly accounts
+- $120 Amazon Credit
+
+**Third Place**
+- 4x ProtonMail Plus yearly accounts
+- $120 Amazon Credit
+
+**Best Keybase Bot Integration**
+- US$1000 in Stellar
+
+**Best Stellar Integration**
+- US$1000 in Stellar
 
 ## Map
 
