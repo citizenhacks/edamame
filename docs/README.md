@@ -128,6 +128,10 @@ Friday, September 6th, 23:00-1:00. Run by Marcel O'Neil.
 
 At this MLH Localhost workshop, you'll learn best practices for using GitHub to collaborate.
 
+### Youth as Agents of Change towards Privacy by Design
+
+Saturday, September 7th, 8:45-9:45. Run by [Mariel García Montes](#mariel-garcia-montes).
+
 ### A hands-on workshop on DNS Security
 
 Saturday, September 7th, 10:00-11:00. Run by [Cuneyt Karul](#cuneyt-karul).
@@ -154,7 +158,7 @@ The first step towards privacy by design is a mindset that cares about the socia
 
 ### Hands-on introduction to Offensive Cybersecurity
 
-Saturday, September 7th, 15:30-17:30. Run by [Helen Oakley](#helen-oakley), [Roy Firestein](#roy-firestein) and [Vitaly Volovich](#vitaly-volovich).
+Saturday, September 7th, 15:30-17:30. Run by [Helen Oakley](#helen-oakley), [Opheliar Chan](#opheliar-chan) and [Vitaly Volovich](#vitaly-volovich).
 
 This is going to be a very quick dive into the world of computer hacking: the bad guys, and the friendly hackers (like us). If you think of the internet as an organism, then we are the immune system; but in today’s fast paced world the criminals have an edge. We will explore the major incidents and trends that shook our world in the last few years, the shadowy entities behind these global attacks, and the widening gap in the supply of professionals and basic cybersecurity literacy that leaves all of us vulnerable. Get a feel for what it's like to be an offensive cybersecurity professional by learning several common hacking techniques, and performing real attacks against a website and a Wifi network.
 
@@ -278,6 +282,17 @@ Laila’s  practice focuses on mergers and acquisitions, licensing, and other te
 
 ### Mariel García Montes
 
+[Website](https://cyber.harvard.edu/people/mgarciamontes)
+
+Mariel García-Montes is a public interest technology capacity builder and researcher from Mexico. Her main topics of interest are privacy and information security, social exclusions in technology and participatory processes.
+
+Most recently, Mariel was a graduate student at the Comparative Media Studies program at MIT, and a research assistant at the Center for Civic Media at the MIT Media Lab. There, she worked at the Codesign Studio and the Design Justice project, and wrote a thesis on tensions in organizational approaches to work on youth and privacy issues in the Americas.
+
+Mariel has worked in communications, instructional design and research around open data, privacy and security, strategic communications and other digital literacies for organizations in Mexico and around the world. She is a philosophy graduate from the National Autonomous University of Mexico.
+
+Mariel loves passionate opinions in the intersections of technology and society, creative communications efforts, random acts of kindness, passport stamps and both eating and dancing salsa.
+
+- [Youth as Agents of Change towards Privacy by Design](#youth-as-agents-of-change-towards-privacy-by-design)
 - [Panel Discussion: Education for ethical design thinking](#panel-discussion-education-for-ethical-design-thinking)
 
 ### Miti Mazmudar
@@ -288,6 +303,10 @@ Miti Mazmudar is a PhD student and researcher in the Cryptography, Security and 
 
 - [How to make an app that is not a privacy horror show](#how-to-make-an-app-that-is-not-a-privacy-horror-show)
 
+### Opheliar Chan
+
+- [Hands-on introduction to Offensive Cybersecurity](#hands-on-introduction-to-offensive-cybersecurity)
+
 ### Paul Heidebrecht
 
 [Website](https://uwaterloo.ca/centre-peace-advancement/people-profiles/paul)
@@ -295,14 +314,6 @@ Miti Mazmudar is a PhD student and researcher in the Cryptography, Security and 
 Paul Heidebrecht is the inaugural director of the Kindred Credit Union Centre for Peace Advancement, and teaches courses in Peace and Conflict Studies at Conrad Grebel University / University of Waterloo. His current research interests reflect a range of academic fields and professional experiences, including the intersection of social innovation and peacebuilding, political advocacy, and technology and ethics. He holds a Ph.D. in religious studies from Marquette University, and a B.A.Sc. in mechanical engineering from the University of Waterloo.
 
 - [Panel Discussion: Education for ethical design thinking](#panel-discussion-education-for-ethical-design-thinking)
-
-### Roy Firestein
-
-[Website](https://hackstudent.com)
-
-Roy is a strategist, seasoned hacker, and renowned investigator who gets consulted whenever international hacking scandals break out. He is fluent in Geek, and currently serves as the Chief Product Officer at Cycura.
-
-- [Hands-on introduction to Offensive Cybersecurity](#hands-on-introduction-to-offensive-cybersecurity)
 
 ### Scott Campbell
 
