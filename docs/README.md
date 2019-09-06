@@ -44,6 +44,7 @@ Check out this document for everything you need to know about Citizen Hacks! It 
 |-------|-------|
 |00:00–1:30|Midnight snack|
 |7:00–9:00|Breakfast|
+|8:00|Devpost submissions close|
 |9:00|HACKING ENDS|
 |10:00–11:30|Judging|
 |11:30–13:00|Lunch|
