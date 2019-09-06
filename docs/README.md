@@ -305,6 +305,18 @@ Miti Mazmudar is a PhD student and researcher in the Cryptography, Security and 
 
 ### Opheliar Chan
 
+[Website](https://www.linkedin.com/in/opheliar-chan-b4724066/)
+
+Opheliar Chan spends most of her time trying to make software security more accessible, pragmatic, and FUD-free. For over a decade, she has focused on software security, SDLC process consulting and implementations, program building, penetration testing/vulnerability assessments, and related. Prior to her career in consulting, she worked in security research, software development, and technical writing.
+
+Her current roles include:
+- Director of Advisory at Security Compass Ltd. (A software security company)
+- Co-lead of the OWASP Toronto Chapter (Global not-for-profit software security community and advocacy group)
+- SecTor Advisory Committee member (Security Education Conference in Toronto)
+- Advocate for HackStudent (Not-for-profit cybersecurity school for teens)
+
+You can usually find her in-person at OWASP Toronto Meetups, or at [opheliar.chan@owasp.org](mailto:opheliar.chan@owasp.org).
+
 - [Hands-on introduction to Offensive Cybersecurity](#hands-on-introduction-to-offensive-cybersecurity)
 
 ### Paul Heidebrecht
