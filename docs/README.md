@@ -128,9 +128,11 @@ Friday, September 6th, 23:00-1:00. Run by Marcel O'Neil.
 
 At this MLH Localhost workshop, you'll learn best practices for using GitHub to collaborate.
 
-### Youth as Agents of Change towards Privacy by Design
+### Just say no to “Just say no”: youth engagement for privacy
 
 Saturday, September 7th, 8:45-9:45. Run by [Mariel García Montes](#mariel-garcia-montes).
+
+In this workshop, we will brainstorm ways to do advocacy that raises awareness about privacy concerns among youth, and ways that youth advocates can engage in privacy policy at large.
 
 ### A hands-on workshop on DNS Security
 
@@ -292,7 +294,7 @@ Mariel has worked in communications, instructional design and research around op
 
 Mariel loves passionate opinions in the intersections of technology and society, creative communications efforts, random acts of kindness, passport stamps and both eating and dancing salsa.
 
-- [Youth as Agents of Change towards Privacy by Design](#youth-as-agents-of-change-towards-privacy-by-design)
+- [Just say no to “Just say no”: youth engagement for privacy](#just-say-no-to-“just-say-no”-youth-engagement-for-privacy)
 - [Panel Discussion: Education for ethical design thinking](#panel-discussion-education-for-ethical-design-thinking)
 
 ### Miti Mazmudar
