@@ -38,6 +38,7 @@ Check out this document for everything you need to know about Citizen Hacks! It 
 |18:00–19:30|Dinner|
 |18:30–19:30|[The Future of AI in Society: from the perspective of three insiders](#the-future-of-ai-in-society-–-from-the-perspective-of-three-insiders)|
 |20:00–21:00|[Slideshow Karaoke](#slideshow-karaoke)|
+|22:00–23:00|[VIM Competition](#vim-competition)
 
 ### Sunday, September 8th
 
@@ -177,6 +178,12 @@ Come join us for a panel discussion and Q&A featuring three firms at the cutting
 Saturday, September 7th, 20:00-21:00. Run by Paige from MLH.
 
 Slideshow Karaoke is a fun game where participants are called up to the stage one at a time. The audience will shout out topics and organizer will use those topic suggestions to find a random yet topical slide deck on the Internet. The participant on stage will then present the slide deck without getting to view the content. The organizer will keep time and progress the slide deck as the participant makes their presentation.
+
+### VIM Competition
+
+Saturday, September 7th, 22:00-23:00. Run by Curtis from Citizen Hacks.
+
+Roll up your sleeves and type away at our VIM competition. Walk through the story of Citizen Hacks' Creation as you make edits in as few keystrokes as possible. With $50 in prizes and bunch of extra food, join the #vim channel if you're a VIM ninja!
 
 ## Speakers
 
