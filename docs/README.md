@@ -28,6 +28,7 @@ Check out this document for everything you need to know about Citizen Hacks! It 
 |-------|-------|
 |00:00–1:30|Midnight snack|
 |7:00–9:00|Breakfast|
+|8:45–9:45|[Just say no to “Just say no”: youth engagement for privacy](#just-say-no-to-“just-say-no”-youth-engagement-for-privacy)|
 |10:00–11:00|[A hands-on workshop on DNS Security](#a-hands-on-workshop-on-dns-security)|
 |11:15–12:15|[Privacy Enhancing Technologies for the Internet](#privacy-enhancing-technologies-for-the-internet)|
 |12:00–13:30|Lunch|
